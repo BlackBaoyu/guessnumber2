@@ -1,5 +1,4 @@
 package com.company;
-import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;
 
 public class Main {
